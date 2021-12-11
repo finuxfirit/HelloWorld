@@ -1,1 +1,58 @@
-This is a basic C++ app
+# HelloWorld C++ 
+
+This here is a basic C++ app that I created from scratch and will be my HelloWorld app for this language.
+
+## Plans
+
+I plan to update this as I progress throughout learning C++.
+
+### Current Features
+
+Here are some the cool things this app can do:
+
+* Remember a line of text you tell it
+* Ask you questions
+* Oh. It can do some math. 
+
+### Installation
+
+No installation needed. There is a 'helloworld.exe' file in the directory. Just click that. Here is a step by step:
+
+```
+$ Open folder
+$ Click 'helloworld.exe' 
+$ Profit?
+```
+
+## Usage
+
+Use it anyway you want
+
+```
+$ A silly Hello World program for your class
+$ A door stop
+$ A fun tool
+```
+
+## Deployment
+
+Nah. None
+
+### Server
+
+* Live:
+* Release:
+* Development:
+
+### Branches
+
+* Master:
+* Feature:
+* Bugfix:
+* etc...
+
+## Additional Documentation and Acknowledgments
+
+* Project folder on server:
+* Confluence link:
+* etc...
